@@ -12,10 +12,7 @@ visualizations**.
 ------------------------------------------------------------------------
 
 ## 📂 Datasets
-
--   **Dataset 1:** \[Link Here\]
--   **Dataset 2:** \[Link Here\]
-
+Retail Sales Dataset.csv
 ------------------------------------------------------------------------
 
 ## 🔑 Key Concepts & Challenges
